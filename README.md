@@ -1,2 +1,2 @@
 # Devops-Assignments
-All the assignments of deveops from tutedue devops course.
+All the assignments of deveops from tutedude devops course.
